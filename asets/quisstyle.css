@@ -1,0 +1,142 @@
+
+  .nav-link{
+    margin-right: 30px;
+  }
+
+   
+
+  .caption img, label{
+    margin-top: 10px !important;
+  }
+
+  .jumbotron .container{
+    margin-top: 40px;
+    color: white;
+    text-shadow: 1px 1px 1px rgba(0,0,0,4);
+  }
+
+  .jumbotron{
+    background-image: url(../IMG/img/8.jpg);
+    box-shadow: 1px 1px 1px rgba(0,0,0,4); 
+    background-attachment: fixed;
+    background-size: cover;
+    height: 680px;
+    /*margin-top:-50px;*/
+  }
+
+  .jumbotron img{
+    margin-top: 30px;
+  }
+
+  .jumbotron .display-4{
+  color: white;
+  margin-top: 10px; 
+  font-weight: 200;
+  text-shadow: 1px 1px 1px rgba(0,0,0,7);
+  font-size: 50px;
+}
+
+
+  
+
+  .navbar-brand, .nav-link{
+    color: white !important;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.7);
+  }
+
+  .navbar-brand{
+    font-size: 30px !important;
+  }
+
+  .
+
+
+
+
+
+
+
+/*
+@media (min-width: 992px) {
+.nav-link:hover::after{
+	content: '';
+  	display: block;
+  	border-bottom: 3px solid blue;
+  	width: 50%;
+  	margin: auto;
+  	padding-top: 5px;
+  	margin-bottom: -8px;
+  	
+  	
+	}
+	
+  .carousel-item .bandel{
+  	margin-top: -290px;
+  	size: 550px;
+
+  }
+
+  
+
+  .tombol{
+  	border-radius: 40px !important;
+  	text-transform:uppercase !important;
+  }
+
+  .nav-link{
+  	margin-right: 60px;
+  }
+
+
+
+
+footer p{
+  padding-top: 15px;
+}
+
+  
+
+
+  .jumbotron{
+  	background-image: url(../IMG/indra.jpg );
+  	background-size: cover;
+  	height: 100%;
+
+  	
+
+  }
+  .jumbotron p{
+  	text-shadow: 1px 1px 1px 5px !important;
+    margin-top: 360px !important;
+
+
+
+  	
+  }
+
+  
+
+
+
+
+
+  .navbar-brand, .nav-link{
+  	color: white !important;
+  	text-shadow: 1px 1px 1px rgba(0,0,0,0.7);
+  }
+
+  .navbar-brand{
+  	font-size: 35px;
+  }
+
+  }
+  .display{
+  	margin-top: 900px;
+  }
+  
+  
+.body{
+  position: relative;
+}
+
+*/

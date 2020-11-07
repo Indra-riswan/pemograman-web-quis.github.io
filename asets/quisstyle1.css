@@ -1,0 +1,36 @@
+@media (min-width: 992px) {
+  .carousel-inner{
+    height: 670px;
+
+  }
+  .carousel-item img{
+    margin-top: -180px;
+
+  }
+
+  .carousel-caption .tombol{
+    margin-top: 30px;
+    text-transform: uppercase;
+    border-radius: 40px;
+    box-shadow: 1px 1px 1px rgba(0,0,0,5);
+    text-shadow: 1px 1px 1px rgba(0,0,0,5);
+   }
+
+
+
+}
+
+.carousel-caption h1 {
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.7);
+    margin-top: -450px;
+
+  }
+
+  .carousel-caption p {
+    text-shadow: 1px 1px 1px rgba(0,0,0,5);
+
+  }
+
+.navbar-brand{
+    font-size: 30px !important;
+  }
